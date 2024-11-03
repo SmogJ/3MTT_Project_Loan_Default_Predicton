@@ -52,9 +52,13 @@ to borrow.
 
 ## PROJECT DEVELOPMENT PROCESS
 
-EDA
-
-Date wrangling
-
-Featuer importance
-
+- EDA
+viusalizing data for: 
+    * Correlation, 
+    * anomalies, 
+    * cental tendencies
+    * Feature importance.
+- Date wrangling
+    * Handling missing value usig mean, median, and fill.
+    * Ecoding Categorical Variable
+    * Standardizing features
