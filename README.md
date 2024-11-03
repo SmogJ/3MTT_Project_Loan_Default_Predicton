@@ -47,8 +47,8 @@ number is one-way lenders measure your ability to manage the monthly payments to
 to borrow.
 
 ### METHOD OF EVALUTION 
-**_Recall_**
-**_F1 Score_**
+* Recall
+* F1 Score
 
 ## PROJECT DEVELOPMENT PROCESS
 
